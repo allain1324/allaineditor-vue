@@ -1,0 +1,11 @@
+html, body, #app {
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+  max-height: 100vh;
+  box-sizing: border-box;
+}
+
+#app {
+  padding: 20px;
+}

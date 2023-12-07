@@ -1,0 +1,12 @@
+# Rules from: /home/allain1324/Desktop/DuAn/Editor/wangEditor-for-vue3/.gitignore
+node_modules/
+.DS_Store
+dist
+dist-ssr
+*.local
+package-lock.json
+
+
+# npmignore - content above this line is automatically generated and modifications may be omitted
+# see npmjs.com/npmignore for more details.
+true
