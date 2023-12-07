@@ -1,5 +1,5 @@
 <template>
-  <div style="display: flex;">
+  <div style="display: flex;" >
     <CreateEditor
       :editor="editorRef"
       @onCreated="handleCreated"
